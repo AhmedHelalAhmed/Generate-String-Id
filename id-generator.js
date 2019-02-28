@@ -25,3 +25,13 @@ let generateRandomId = n => {
 
 
 };
+
+
+// for test 
+generateRandomId(3);
+generateRandomId(3);
+
+generateRandomId(5);
+generateRandomId(10);
+generateRandomId(20);
+// for test
